@@ -1,0 +1,556 @@
+CURA.CN,Healthcare
+VRNO.CN,Healthcare
+CL.CN,Healthcare
+ASE.CN,Basic Materials
+MRMD.CN,Healthcare
+EPIC.CN,Healthcare
+SUNN.CN,Utilities
+JUSH.CN,Healthcare
+IAN.CN,Healthcare
+URB.CN,sector not found
+CHAL.CN,Healthcare
+RICH.CN,Financial Services
+SASK.CN,Basic Materials
+INNO.CN,Healthcare
+BHSC.CN,Consumer Defensive
+IMCC.CN,Healthcare
+SCPE.CN,Technology
+BIGG.CN,Financial Services
+HUGE.CN,Healthcare
+NC.CN,Technology
+BYND.CN,Technology
+MRM.CN,Technology
+DPRO.CN,Industrials
+CXXI.CN,Healthcare
+GRIN.CN,Healthcare
+FRSH.CN,Consumer Defensive
+IRV.CN,Basic Materials
+LUR.CN,Energy
+MMEN.CN,Healthcare
+BNKR.CN,Basic Materials
+NVRO.CN,Basic Materials
+LIM.CN,Basic Materials
+USGD.CN,Basic Materials
+GLAB.CN,Healthcare
+ACOG.CN,Healthcare
+XOP.CN,Energy
+LEEF.CN,Healthcare
+RGX.CN,Basic Materials
+AMB.CN,Consumer Cyclical
+BOIL.CN,Consumer Defensive
+CDPR.CN,Basic Materials
+EMPS.CN,Basic Materials
+BZAM.CN,Healthcare
+BLO.CN,Healthcare
+SNA.CN,Industrials
+API.CN,Energy
+EGFV.CN,Basic Materials
+ARS.CN,Basic Materials
+PNRG.CN,Basic Materials
+FNI.CN,Basic Materials
+KASH.CN,Technology
+MAXX.CN,Basic Materials
+MMAX.CN,Technology
+AMMP.CN,Basic Materials
+PKK.CN,Technology
+SHRC.CN,Industrials
+AMPS.CN,Basic Materials
+JSDA.CN,Consumer Defensive
+CAKE.CN,Energy
+CACR.CN,Basic Materials
+YOUR.CN,Healthcare
+COVE.CN,sector not found
+BAMM.CN,Healthcare
+GFCO.CN,Consumer Defensive
+RIV.CN,Healthcare
+GDNS.CN,Healthcare
+AUCU.CN,Basic Materials
+PAID.CN,Technology
+FE.CN,Basic Materials
+SX.CN,Basic Materials
+MDMA.CN,Healthcare
+SHOE.CN,Consumer Cyclical
+MOOO.CN,Consumer Defensive
+BUX.CN,Healthcare
+CDVA.CN,Healthcare
+SCYB.CN,Technology
+NVLH.CN,Basic Materials
+AGC.CN,Basic Materials
+SIG.CN,Basic Materials
+SKUR.CN,Technology
+SONA.CN,Healthcare
+HBFG.CN,Consumer Defensive
+PDO.CN,Industrials
+LUX.CN,Industrials
+NFLD.CN,Basic Materials
+PHOS.CN,Basic Materials
+CFE.CN,Basic Materials
+BLLG.CN,Basic Materials
+IDK.CN,Financial Services
+PRME.CN,Utilities
+RCLF.CN,Basic Materials
+ASEP.CN,Healthcare
+RAIL.CN,Technology
+KUYA.CN,Basic Materials
+ERKA.CN,Basic Materials
+EXM.CN,Healthcare
+HP.CN,Technology
+MVMD.CN,Healthcare
+URL.CN,Technology
+IZO.CN,Healthcare
+HG.CN,Basic Materials
+RVV.CN,Healthcare
+CGN.CN,Healthcare
+RR.CN,Basic Materials
+LVL.CN,Basic Materials
+FOX.CN,Basic Materials
+HODL.CN,Financial Services
+UUSA.CN,Basic Materials
+COOL.CN,Healthcare
+FNDX.CN,Basic Materials
+FABL.CN,Basic Materials
+BAC.CN,Industrials
+RISE.CN,Basic Materials
+PMC.CN,Basic Materials
+VBAM.CN,Basic Materials
+VSBY.CN,Technology
+SOL.CN,Financial Services
+PMED.CN,Healthcare
+MESC.CN,Healthcare
+PREV.CN,Healthcare
+AUAG.CN,Basic Materials
+RI.CN,Basic Materials
+PUMP.CN,Financial Services
+ACDX.CN,Basic Materials
+PHRM.CN,Healthcare
+COSA.CN,Basic Materials
+GEGC.CN,Basic Materials
+CISC.CN,Technology
+VIN.CN,Healthcare
+SLV.CN,Basic Materials
+PSYC.CN,Consumer Defensive
+GBLC.CN,Technology
+CRUZ.CN,Basic Materials
+ZRO.CN,Consumer Defensive
+BRH.CN,sector not found
+BLAB.CN,Healthcare
+NOM.CN,Basic Materials
+SKLL.CN,Consumer Cyclical
+ORI.CN,sector not found
+VOY.CN,Basic Materials
+AIC.CN,Communication Services
+VENI.CN,Healthcare
+LIVE.CN,Basic Materials
+ACME.CN,Basic Materials
+AIAI.CN,Healthcare
+BEE.CN,Basic Materials
+DRUG.CN,Healthcare
+DOSE.CN,Healthcare
+BVCI.CN,Technology
+AJN.CN,Basic Materials
+ZAIR.CN,Industrials
+MEDA.CN,Basic Materials
+PSYG.CN,Healthcare
+BY.CN,Basic Materials
+XBRA.CN,Healthcare
+CNFA.CN,Healthcare
+CC.CN,Basic Materials
+BEV.CN,Consumer Defensive
+READ.CN,Communication Services
+EMER.CN,Real Estate
+HS.CN,Healthcare
+ALCU.CN,Basic Materials
+REO.CN,Financial Services
+CANN.CN,Healthcare
+DCLI.CN,Basic Materials
+JUBA.CN,Basic Materials
+GSRI.CN,Basic Materials
+PUGS.CN,Basic Materials
+BNN.CN,Basic Materials
+CNI.CN,sector not found
+BNSL.CN,Technology
+HAMR.CN,Basic Materials
+IAI.CN,Technology
+PRR.CN,Basic Materials
+OILS.CN,Healthcare
+GREN.CN,Energy
+DSAI.CN,Technology
+SPO.CN,Technology
+GAND.CN,Basic Materials
+APLV.CN,Communication Services
+CNRG.CN,Basic Materials
+NUR.CN,Technology
+UBQ.CN,Basic Materials
+PLCN.CN,Healthcare
+HZ.CN,Basic Materials
+PGOL.CN,Basic Materials
+GPK.CN,Financial Services
+NCLR.CN,Basic Materials
+URNM.CN,Basic Materials
+RFLX.CN,Basic Materials
+PRIZ.CN,Basic Materials
+CLSH.CN,Healthcare
+EVM.CN,Basic Materials
+IGN.CN,Technology
+FFF.CN,Basic Materials
+JKS.CN,Basic Materials
+CCI.CN,Basic Materials
+RCHR.CN,Basic Materials
+FNAU.CN,Basic Materials
+ARQ.CN,Basic Materials
+ER.CN,Basic Materials
+JUVA.CN,Healthcare
+QCA.CN,Financial Services
+MBIO.CN,Healthcare
+SPR.CN,Healthcare
+FENX.CN,Basic Materials
+DVN.CN,Technology
+PAU.CN,Basic Materials
+MIS.CN,Basic Materials
+MCUR.CN,Healthcare
+RMC.CN,Basic Materials
+CXC.CN,Basic Materials
+LYNX.CN,Healthcare
+UDOC.CN,Healthcare
+CDN.CN,Basic Materials
+RAMM.CN,Healthcare
+BLOX.CN,Technology
+RFR.CN,Basic Materials
+AUSA.CN,Healthcare
+RYAH.CN,Healthcare
+FNQ.CN,Financial Services
+CUAU.CN,Basic Materials
+CHGX.CN,Healthcare
+HRO.CN,Technology
+NERD.CN,Technology
+MCL.CN,Basic Materials
+SNN.CN,sector not found
+MRBL.CN,Financial Services
+LCR.CN,Basic Materials
+QIM.CN,Basic Materials
+GAMA.CN,Basic Materials
+SPAI.CN,Technology
+ESNR.CN,Basic Materials
+PSE.CN,Basic Materials
+MLKM.CN,Basic Materials
+HECO.CN,Basic Materials
+GLDS.CN,Basic Materials
+VIK.CN,Energy
+LODE.CN,Basic Materials
+LECR.CN,Basic Materials
+GLM.CN,Basic Materials
+CME.CN,Basic Materials
+BBM.CN,Healthcare
+ANON.CN,Technology
+CHCK.CN,Basic Materials
+NINE.CN,Basic Materials
+NEVI.CN,Consumer Defensive
+SCV.CN,Basic Materials
+CLC.CN,Healthcare
+SASY.CN,Basic Materials
+PGA.CN,Basic Materials
+BULL.CN,Basic Materials
+SE.CN,Healthcare
+OIL.CN,Energy
+GMR.CN,Basic Materials
+FLM.CN,Basic Materials
+PNGA.CN,Consumer Defensive
+SLNG.CN,Healthcare
+SEAG.CN,Basic Materials
+GDIG.CN,Basic Materials
+KCL.CN,Basic Materials
+SPOD.CN,Basic Materials
+GBC.CN,Financial Services
+AIML.CN,Healthcare
+CCR.CN,Consumer Cyclical
+MIRL.CN,Basic Materials
+CMND.CN,Healthcare
+GGC.CN,Basic Materials
+M.CN,Basic Materials
+BYFM.CN,Technology
+BHNG.CN,Healthcare
+VIBE.CN,Healthcare
+MOC.CN,Basic Materials
+SPEY.CN,Basic Materials
+DCSI.CN,Technology
+CUBE.CN,Industrials
+NOVA.CN,Healthcare
+IP.CN,Technology
+SQX.CN,Energy
+SANU.CN,Basic Materials
+LLP.CN,Consumer Defensive
+PERK.CN,Technology
+NSG.CN,Basic Materials
+NVLI.CN,Basic Materials
+QNI.CN,Basic Materials
+ARM.CN,Financial Services
+RVR.CN,Communication Services
+HSLV.CN,sector not found
+PKG.CN,Industrials
+MM.CN,Basic Materials
+AYUR.CN,Healthcare
+URM.CN,Basic Materials
+GRHK.CN,Basic Materials
+AIG.CN,Technology
+GSK.CN,Basic Materials
+EONX.CN,Technology
+LLM.CN,Basic Materials
+AUOZ.CN,Basic Materials
+IC.CN,Financial Services
+RSH.CN,Basic Materials
+MY.CN,Basic Materials
+GABY.CN,Healthcare
+AFX.CN,Basic Materials
+PHRX.CN,Healthcare
+MML.CN,Basic Materials
+FREE.CN,Basic Materials
+AICO.CN,Technology
+SIX.CN,Financial Services
+SPIR.CN,Financial Services
+PLUG.CN,Technology
+RXM.CN,Basic Materials
+HARY.CN,Consumer Defensive
+ORGN.CN,Basic Materials
+APP.CN,Technology
+UDI.CN,Basic Materials
+CCC.CN,Basic Materials
+PBF.CN,Healthcare
+LQID.CN,Technology
+EPR.CN,Basic Materials
+SURE.CN,Basic Materials
+EOM.CN,Basic Materials
+MANN.CN,Basic Materials
+CAMP.CN,Basic Materials
+J.CN,Healthcare
+DMED.CN,Healthcare
+HMBL.CN,Consumer Defensive
+LOBE.CN,Healthcare
+MSVN.CN,Healthcare
+NBRK.CN,Basic Materials
+SNR.CN,Basic Materials
+VR.CN,Basic Materials
+NIRV.CN,Healthcare
+HERC.CN,Basic Materials
+ALE.CN,Basic Materials
+GBMC.CN,Technology
+NARA.CN,Healthcare
+JBR.CN,Energy
+NICO.CN,Basic Materials
+BIOV.CN,Healthcare
+MOSS.CN,Healthcare
+SF.CN,Basic Materials
+EMIN.CN,Basic Materials
+SRS.CN,Basic Materials
+RGLD.CN,Basic Materials
+HML.CN,Basic Materials
+UGH.CN,Energy
+VRAR.CN,Technology
+BCBC.CN,Healthcare
+PPB.CN,Consumer Defensive
+BRAX.CN,Healthcare
+NPRA.CN,Consumer Defensive
+QIMC.CN,Basic Materials
+ARGO.CN,Basic Materials
+SENS.CN,Technology
+ELEM.CN,Basic Materials
+ESAU.CN,Basic Materials
+CSQ.CN,sector not found
+OMND.CN,Healthcare
+MNG.CN,Basic Materials
+CBP.CN,Healthcare
+DEME.CN,Basic Materials
+NF.CN,Energy
+CHOO.CN,Healthcare
+XSF.CN,Financial Services
+AGN.CN,Healthcare
+PRUD.CN,Basic Materials
+FONE.CN,Healthcare
+POLE.CN,Financial Services
+CBDN.CN,Healthcare
+GRUV.CN,Basic Materials
+AION.CN,Healthcare
+GGLD.CN,Basic Materials
+CK.CN,Technology
+CEG.CN,Basic Materials
+MARY.CN,Technology
+HERB.CN,Healthcare
+OMIC.CN,Healthcare
+CRS.CN,Basic Materials
+CASC.CN,Basic Materials
+LION.CN,Basic Materials
+VBN.CN,Basic Materials
+XRA.CN,Technology
+GOR.CN,Basic Materials
+RDRS.CN,Technology
+POKO.CN,Healthcare
+PDFI.CN,Financial Services
+BURY.CN,Basic Materials
+OMGA.CN,Basic Materials
+IMCX.CN,Basic Materials
+ASHL.CN,Basic Materials
+GHG.CN,Healthcare
+CRIV.CN,Basic Materials
+CVGR.CN,Healthcare
+AOC.CN,Technology
+AFF.CN,Basic Materials
+FZ.CN,Basic Materials
+LAND.CN,Basic Materials
+BDR.CN,Energy
+CURE.CN,Healthcare
+CODE.CN,Financial Services
+MBLM.CN,Technology
+IGLD.CN,Basic Materials
+GRAY.CN,Basic Materials
+BLR.CN,Financial Services
+PXE.CN,Communication Services
+LLL.CN,Financial Services
+GOCO.CN,Basic Materials
+SHP.CN,Energy
+AUHI.CN,Basic Materials
+ENBI.CN,Healthcare
+CRES.CN,Basic Materials
+SGRO.CN,Basic Materials
+GPO.CN,Basic Materials
+NOP.CN,Basic Materials
+SILO.CN,Healthcare
+VEGI.CN,Consumer Defensive
+RKL.CN,Basic Materials
+NLV.CN,Healthcare
+ARO.CN,sector not found
+ORIG.CN,Healthcare
+CRPC.CN,Basic Materials
+PNGC.CN,Basic Materials
+MYND.CN,Healthcare
+REZN.CN,Healthcare
+MEGA.CN,Basic Materials
+CGII.CN,Consumer Defensive
+CALM.CN,Healthcare
+SLZ.CN,Basic Materials
+BEAN.CN,Consumer Cyclical
+DEEP.CN,Basic Materials
+UP.CN,Communication Services
+ADX.CN,Communication Services
+EBR.CN,Basic Materials
+GEMS.CN,Technology
+LUXX.CN,Financial Services
+MUSK.CN,Basic Materials
+CSS.CN,Basic Materials
+BJB.CN,Basic Materials
+GRM.CN,Basic Materials
+XRI.CN,Basic Materials
+FDM.CN,Technology
+OPC.CN,Basic Materials
+AMPD.CN,Technology
+CUH.CN,Basic Materials
+PULL.CN,Healthcare
+SPS.CN,Consumer Defensive
+REDG.CN,Basic Materials
+IME.CN,Healthcare
+SLO.CN,Basic Materials
+BRCO.CN,Basic Materials
+SUPR.CN,Basic Materials
+BIO.CN,Healthcare
+UX.CN,Basic Materials
+ACRE.CN,Basic Materials
+RMES.CN,Basic Materials
+CRCL.CN,Basic Materials
+MUZU.CN,Basic Materials
+HMPS.CN,Healthcare
+SASQ.CN,Basic Materials
+JQ.CN,Basic Materials
+GCP.CN,Basic Materials
+IBH.CN,Healthcare
+PMS.CN,Basic Materials
+LIDA.CN,Basic Materials
+MYR.CN,Basic Materials
+EMRG.CN,Consumer Defensive
+EDGM.CN,Basic Materials
+RED.CN,Basic Materials
+SCM.CN,Basic Materials
+QQ.CN,Communication Services
+EPY.CN,Communication Services
+PS.CN,Basic Materials
+MAKA.CN,Basic Materials
+MLCL.CN,Healthcare
+LP.CN,Basic Materials
+OBRN.CN,Energy
+MJMJ.CN,Healthcare
+GOH.CN,Basic Materials
+XONE.CN,Communication Services
+BLGV.CN,Financial Services
+XCX.CN,Healthcare
+PUSH.CN,Technology
+XIGM.CN,Technology
+CRVC.CN,Basic Materials
+MJ.CN,Healthcare
+AXCP.CN,Financial Services
+PM.CN,Basic Materials
+PEK.CN,Basic Materials
+HRK.CN,Basic Materials
+GNOM.CN,Healthcare
+GSL.CN,Healthcare
+CAPR.CN,Basic Materials
+CRC.CN,Basic Materials
+BG.CN,Basic Materials
+PPK.CN,Technology
+SAND.CN,Basic Materials
+PLAY.CN,Communication Services
+KVM.CN,Basic Materials
+ALMA.CN,Basic Materials
+BRCH.CN,Financial Services
+AFI.CN,Consumer Defensive
+SOLV.CN,Technology
+CMP.CN,Basic Materials
+IONC.CN,Healthcare
+MPXI.CN,Healthcare
+ACA.CN,Financial Services
+MJRX.CN,Healthcare
+NSJ.CN,Basic Materials
+CARM.CN,Basic Materials
+SPFY.CN,Communication Services
+MOJO.CN,Healthcare
+MILK.CN,Consumer Defensive
+AGE.CN,Basic Materials
+RAIN.CN,Basic Materials
+MCCN.CN,Healthcare
+LRDS.CN,Healthcare
+EMPH.CN,Technology
+PLNK.CN,Technology
+ZOG.CN,Consumer Defensive
+HAVN.CN,Healthcare
+SPOR.CN,Communication Services
+YOOM.CN,Healthcare
+GDN.CN,Basic Materials
+GRCM.CN,Basic Materials
+EI.CN,Energy
+YUM.CN,Consumer Defensive
+FUEL.CN,Consumer Defensive
+BRAS.CN,Basic Materials
+NLR.CN,Basic Materials
+VICE.CN,Consumer Defensive
+ZEU.CN,Technology
+BKS.CN,sector not found
+MOOD.CN,Healthcare
+MMI.CN,Basic Materials
+PILL.CN,Healthcare
+FGFL.CN,Financial Services
+COYX.CN,Technology
+PLLR.CN,Basic Materials
+ASIA.CN,Healthcare
+VC.CN,Basic Materials
+SBD.CN,Consumer Defensive
+DCNN.CN,Healthcare
+UAV.CN,Technology
+VAGN.CN,Consumer Defensive
+HMC.CN,Basic Materials
+CHM.CN,Healthcare
+RAD.CN,Technology
+PKB.CN,Healthcare
+MEAL.CN,Consumer Defensive
+NSHS.CN,Healthcare
+GAIA.CN,Healthcare
+SQID.CN,Technology
+VEJI.CN,Consumer Defensive
+MJEM.CN,Financial Services
+VEGA.CN,Consumer Cyclical
+NVR.CN,Basic Materials

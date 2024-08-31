@@ -18,32 +18,35 @@
                 <div class="tab-pane flex items-center justify-center">
                     <div class="bg-white rounded-lg shadow-md p-8 w-96 mb-10">
                         <h1 class="text-2xl font-semibold mb-4 text-center">Sector Search
-                            <img class="inline-block align-middle" src="../static/usaflag.png" alt="usaflag"
+                            <img class="inline-block align-middle" src="../static/cadflag.jpg" alt="cadflag"
                                 height="20px" width="35px">
                         </h1>
                         <form id="search-form" method="get">
                             <div class="mb-4 flex items-center justify-center" id="stockTickerFields">
                                 <label class="block text-sm font-medium text-gray-600 mr-2">Sector</label>
                                 <select class="p-1 border rounded-md w-50" id="sectorInput" name="sectorInput">
-                                    <option value="Health Care">Health Care</option>
-                                    <option value="Industrials">Industrials</option>
-                                    <option value="Real Estate">Real Estate</option>
-                                    <option value="Consumer Discretionary">Consumer Discretionary</option>
-                                    <option value="Consumer Staples">Consumer Staples</option>
-                                    <option value="Technology">Technology</option>
-                                    <option value="Utilities">Utilities</option>
-                                    <option value="Telecommunications">Telecommunications</option>
-                                    <option value="Energy">Energy</option>
-                                    <option value="Miscellaneous">Miscellaneous</option>
+                                    <option value="Healthcare">Healthcare</option>
+                                    <option value="Financial Services">Financial Services</option>
                                     <option value="Basic Materials">Basic Materials</option>
+                                    <option value="Energy">Energy</option>
+                                    <option value="Consumer Cyclical">Consumer Cyclical</option>
+                                    <option value="Consumer Defensive">Consumer Defensive</option>
+                                    <option value="Industrials">Industrials</option>
+                                    <option value="Technology">Technology</option>
+                                    <option value="Communication Services">Communication Services</option>
+                                    <option value="Real Estate">Real Estate</option>
+                                    <option value="Utilities">Utilities</option>
                                 </select>
                             </div>
                             <div class="justify-center text-center mb-5">
                                 <label>
-                                    <input type="radio" name="exchange" value="nyse" checked> NYSE
+                                    <input type="radio" name="exchange" value="cse" checked> CSE
                                 </label>
                                 <label>
-                                    <input type="radio" name="exchange" value="nasdaq"> NASDAQ
+                                    <input type="radio" name="exchange" value="tsx"> TSX
+                                </label>
+                                <label>
+                                    <input type="radio" name="exchange" value="tsxv"> TSX-V
                                 </label>
                             </div>
                             <button id="searchButton" type="button"
@@ -61,8 +64,8 @@
                     <textarea id="info" rows="10" cols="75" disabled class="mb-4"></textarea>
                 </div>
             </div>
-            <a href="{{ url_for('sectorCAHomepage') }}" class="bg-gray-800 text-white px-4 py-2 rounded-md">
-                Go to CA Searcher
+            <a href="{{ url_for('sectorUSAHomepage') }}" class="bg-gray-800 text-white px-4 py-2 rounded-md">
+                Go to USA Searcher
             </a>
         </div>
     </div>
